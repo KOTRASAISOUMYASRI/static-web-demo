@@ -10,24 +10,24 @@ body {
 .container {
   max-width: 800px;
   margin: 0 auto;
-  background: #ffffff;
+  background: #fffffe;
   border-radius: 12px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
   overflow: hidden;
 }
 
 header {
-  background: #003366;
+  background: #003365;
   color: white;
   padding: 2rem;
   text-align: center;
 }
 
-.subtitle { color: #b0c4de; margin-top: 0.5rem; }
+.subtitle { color: #b0c4ed; margin-top: 0.5rem; }
 
 .tabs {
   display: flex;
-  background: #e4e6eb;
+  background: #e4e6be;
   border-bottom: 2px solid #ccc;
   overflow-x: auto;
 }
@@ -43,10 +43,10 @@ header {
   transition: all 0.2s ease;
 }
 
-.tab-btn:hover { background: #d8dadf; }
+.tab-btn:hover { background: #d8dafd; }
 .tab-btn.active {
   background: white;
-  color: #003366;
+  color: #003346;
   border-bottom: 3px solid #003366;
 }
 
