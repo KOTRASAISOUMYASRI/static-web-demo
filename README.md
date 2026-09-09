@@ -21,6 +21,7 @@ Whenever changes are pushed to the `main` branch, GitHub Actions automatically e
 ## 📂 Project Structure
 
 ```text
+structure
 static-web-demo/
 ├── src/
 │   ├── index.html       # Primary HTML web page
